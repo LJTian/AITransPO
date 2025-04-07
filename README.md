@@ -2,7 +2,6 @@
 
 **使用 OpenAI 自动翻译 `.po` 文件内容 (Go 语言实现)**
 
-[![License](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Go Report Card](https://goreportcard.com/badge/github.com/ljtian/AITransPO)](https://goreportcard.com/report/github.com/ljtian/AITransPO) 
 [![Status](https://img.shields.io/badge/Status-Development-yellow)](https://github.com/ljtian/AITransPO) 
 
